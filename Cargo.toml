@@ -14,9 +14,9 @@ repository = "https://github.com/botika/delorean"
 maintenance = { status = "actively-developed" }
 
 [dev-dependencies]
-wasm-bindgen-futures = "0.4"
+wasm-bindgen-futures = "0.4.42"
 async-timer = "0.7"
-wasm-bindgen-test = "0.3"
+wasm-bindgen-test = "0.3.42"
 
 [build-dependencies]
 yarte_helpers = { version = "~0.15.8", default-features = false, features = ["config"] }
