@@ -15,7 +15,7 @@ maintenance = { status = "actively-developed" }
 
 [dev-dependencies]
 wasm-bindgen-futures = "0.4"
-async-timer = "0.7"
+async-timer = "0.7.4"
 wasm-bindgen-test = "0.3"
 
 [build-dependencies]
